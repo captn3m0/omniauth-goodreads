@@ -31,7 +31,6 @@ Gem::Specification.new do |s|
   s.rubygems_version = "2.0.14"
   s.summary = "OmniAuth strategy for Goodreads"
 
-  s.add_dependency("omniauth-goodreads", ">= 0")
   s.add_dependency("omniauth-oauth", "~> 1.0.1")
   s.add_dependency("multi_xml", "~> 0.5.5")
   s.add_development_dependency("jeweler", "~> 1.8.4")
