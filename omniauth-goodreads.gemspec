@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "omniauth-goodreads"
-  s.version = "0.2.1"
+  s.version = "0.2.2"
 
   s.require_paths = ["lib"]
   s.authors = ["Ahmed El.Hussaini"]
